@@ -43,6 +43,26 @@
     else
       {document.images.g.src=eval("c"+Math.floor(s/10)+".src")
       document.images.h.src=eval("c"+(s%10)+".src")}
+    if (dn=="AM") document.j.src=cam.src
+    else document.images.j.src=cpm.src}
+  function show3()
+    {if (!document.images)
+      return
+    var Digital=new Date()
+    var hours=Digital.getHours()
+    var minutes=Digital.getMinutes()
+    var seconds=Digital.getSeconds()
+    dn="AM" 
+    if ((hours>=12)&&(minutes>=1)||(hours>=13))
+      {dn="PM"
+        hours=hours-12}
+    if (hours==0)
+    hours=12
+    extract(hours,minutes,seconds,dn)
+  setTimeout("show3()",1000)}
+</Script>
+  
+</head>
 
  <body>
   <h1>Look at my awesome pet:</h1>
