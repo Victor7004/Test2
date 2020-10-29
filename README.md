@@ -46,13 +46,7 @@
     if (dn=="AM") document.j.src=cam.src
     else document.images.j.src=cpm.src}
   function show3()
-    {if (!document.images)
-      return
-    var Digital=new Date()
-    var hours=Digital.getHours()
-    var minutes=Digital.getMinutes()
-    var seconds=Digital.getSeconds()
-    dn="AM" 
+  
     
   
 </head>
