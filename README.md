@@ -53,14 +53,7 @@
     var minutes=Digital.getMinutes()
     var seconds=Digital.getSeconds()
     dn="AM" 
-    if ((hours>=12)&&(minutes>=1)||(hours>=13))
-      {dn="PM"
-        hours=hours-12}
-    if (hours==0)
-    hours=12
-    extract(hours,minutes,seconds,dn)
-  setTimeout("show3()",1000)}
-</Script>
+    
   
 </head>
 
