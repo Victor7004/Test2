@@ -16,5 +16,7 @@
                 <p data-type="description">Немецкая овчарка - моя любимая  порода .</p>
 
   </div>
+  <div id="innovation"><img src="robo.png"></div>
+
  </body>
 </html>
