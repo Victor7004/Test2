@@ -20,13 +20,13 @@
 
   <tbody>
 
-    <tr>
+        <tr>
 
-      <td class="menu">Ðîáîòû</td>
+           <td class="menu">About</td>
 
-      <td class="menu"><a href="ii.html">Èñêóñòâåííûé èíòåëëåêò</a></td>
+           <td class="menu"><a href="ii.html">Кинология</a></td>
 
-    </tr>
+       </tr>
 
   </tbody>
 </table>
