@@ -13,22 +13,21 @@
 
 </head>
 
- <body>
- 
+<body>
  
 <table border="0" cellpadding="0" cellspacing="0">
 
   <tbody>
 
-        <tr>
+   <tr>
 
-           <td class="menu">About</td>
+   <td class="menu">About</td>
 
-           <td class="menu"><a href="ii.html">Кинология</a></td>
+   <td class="menu"><a href="ii.html">Кинология</a></td>
 
-       </tr>
+   </tr>
 
-  </tbody>
+   </tbody>
 </table>
   <h1>Look at my awesome pet:</h1>
   <img class="picture"  src="https://litbro.ru/wp-content/uploads/2019/07/Uhod-za-nemetskoj-ovcharkoj-10.jpg">
