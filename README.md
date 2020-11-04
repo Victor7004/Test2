@@ -3,7 +3,12 @@
  <head>
    <p>
       Мой первый сайт
-  </p> 
+  </p>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+  <title>Òåõíîëîãèè</title>
+
+
+  <link rel="stylesheet" href="styles.css">
 
 
 </head>
