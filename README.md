@@ -5,7 +5,7 @@
       Мой первый сайт
   </p>
     <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
-  <title>Мой первый сайт</title>
+     <title>Мой первый сайт</title>
 
 
   <link rel="stylesheet" href="styles.css">
