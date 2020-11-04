@@ -9,6 +9,22 @@
 </head>
 
  <body>
+ 
+ 
+<table border="0" cellpadding="0" cellspacing="0">
+
+  <tbody>
+
+    <tr>
+
+      <td class="menu">Ðîáîòû</td>
+
+      <td class="menu"><a href="ii.html">Èñêóñòâåííûé èíòåëëåêò</a></td>
+
+    </tr>
+
+  </tbody>
+</table>
   <h1>Look at my awesome pet:</h1>
   <img class="picture"  src="https://litbro.ru/wp-content/uploads/2019/07/Uhod-za-nemetskoj-ovcharkoj-10.jpg">
   <div name="about">
