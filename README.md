@@ -41,8 +41,8 @@
   <div name="about">
       <h1 id="pet-name">   Ха - ха - ха )))</h1>
  
-  <form>
-   <p><input type="button" value=" Нажми меня нежно "></p>
-  </form>
+   <form>
+    <p><input type="button" value=" Нажми меня нежно "></p>
+   </form>
  </body>
 </html>
