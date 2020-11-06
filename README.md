@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
- <head>">
+ <head>
    <p>
       Мой первый сайт
   </p>
