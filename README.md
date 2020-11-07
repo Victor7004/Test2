@@ -43,7 +43,19 @@
       <h1 id="pet-name">   Ха - ха - ха )))</h1>
  
    <form>
-    <p><input type="button" value=" Нажми меня нежно "></p>
+     <div class="form-check form-check-custom">
+          <input class="form-check-input" type="checkbox" id="robotCheckbox" required>
+          <label class="form-check-label" for="robotCheckbox">I'm the robot</label>
+      </div>
+      <div class="form-check">
+        <input class="form-check-input" type="radio" name="ruler" id="peopleRule" value="people" checked>
+        <label for="peopleRule">People rule</label>
+      </div>
+      <div class="form-check form-radio-custom">
+          <input class="form-check-input" type="radio" name="ruler" id="robotsRule" value="robots">
+          <label class="form-check-label" for="robotsRule">Robots rule</label>
+      </div>
+      <button type="submit" class="btn btn-default">Submit</button>
    </form>
  </body>
 </html>
