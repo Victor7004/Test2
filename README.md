@@ -59,11 +59,5 @@
       </div>
       <button type="submit" class="btn btn-default">Submit</button>
    </form>
-    <script>
-    var input_value = Math.floor(Math.random() * 1000) + 1;
-    var isFinished = false;
-    document.getElementById("input_value").innerHTML = input_value;
-    countDown(10);
-  </script>
  </body>
 </html>
