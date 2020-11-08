@@ -61,6 +61,7 @@
       </div>
       <button type="submit" class="btn btn-default">Submit</button>
    </form>
-   <p style="text-align: center"><button>Кнопка с текстом</button>
+   <p style="text-align: center"><button>Кнопка с текстом</button><input type="button" name="nubex" value="Nubex" />
+   
  </body>
 </html>
