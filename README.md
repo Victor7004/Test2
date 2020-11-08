@@ -2,7 +2,6 @@
 <html>
  <head>
    <meta charset="utf-8">
-  <title>Тег BUTTON</title>
     
   <link rel="stylesheet" type="text/css" href="mystyle.css">
    <p>
