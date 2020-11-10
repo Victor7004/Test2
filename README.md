@@ -3,22 +3,7 @@
  <head>
    meta charset="utf-8">
    <title>Кнопка ссылка</title>
-   <style>
-	       a.nubex {
-	       color: #fff;
-	       user-select: none; /* Убираем текстовое выделение */
-	       text-decoration: none;	/* Убираем подчеркивание */
-       	outline: none; /* Убираем контур вокруг ссылки */
-	       background-color: #fa8e47; /* Цвет фона */
-	       padding: 1em 2em; /* Отступ от текста до рамки */
-	       }
-        a.nubex:active {
-       	background-color: #ee6206; /* Цвет кнопки при нажатии */
-	       }
-	       a.nubex:hover {
-	       background-color: #f97f2e; /* Цвет кнопки при наведении курсора */
-	       }
-   </style
+   
     
   <link rel="stylesheet" type="text/css" href="mystyle.css">
    <p>
