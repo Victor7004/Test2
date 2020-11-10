@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
  <head>
-   meta charset="utf-8">
-   <title>Кнопка ссылка</title>
+   
    
     
   <link rel="stylesheet" type="text/css" href="mystyle.css">
