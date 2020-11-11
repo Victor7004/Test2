@@ -46,7 +46,7 @@
 	<h1 id="pet-name">   Ха - ха - ха )))</h1>
   <label for="dropdown">Выберите язык программирования:</label>
   <select id="dropdown" class="custom-select">
-     <option selected>--</option>
+     <option selected> </option>
         <option value="1">Python</option>
         <option value="2">Java</option>
         <option value="3">JavaScript</option>
