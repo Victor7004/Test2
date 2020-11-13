@@ -55,7 +55,7 @@
 	
 	
   
-    <a href="#" class="nubex">Кнопка-ссылка</a>
+   <a href="#" class="nubex">Кнопка-ссылка</a>
   
     
    <p style="text-align: center"><button>Кнопка с текстом</button><input type="button" name="nubex" value="Nubex" />
